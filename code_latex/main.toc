@@ -5,31 +5,22 @@
 \contentsline {chapter}{Synthèse}{vi}{chapter*.5}%
 \contentsline {chapter}{Synthesis}{vii}{chapter*.6}%
 \contentsline {chapter}{Introduction}{1}{chapter*.7}%
-\contentsline {chapter}{\numberline {1}Contexte réglementaire et modélisation en assurance vie}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Les spécificités des produits d'assurance vie épargne}{4}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Principes fondamentaux du contrat d'assurance vie}{4}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Les principaux supports d'investissement}{5}{subsection.1.1.2}%
-\contentsline {section}{\numberline {1.2}Le cadre prudentiel Solvabilité II}{6}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Le Pilier 1 : Exigences quantitatives et Bilan Prudentiel}{7}{subsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.1.1}L'évaluation des Actifs à la Valeur de Marché}{7}{subsubsection.1.2.1.1}%
-\contentsline {subsubsection}{\numberline {1.2.1.2}Les Provisions Techniques : Cœur de l'évaluation du passif}{8}{subsubsection.1.2.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1.3}Les Fonds Propres et les Exigences de Capital}{9}{subsubsection.1.2.1.3}%
-\contentsline {subsection}{\numberline {1.2.2}Le Pilier 2 : Exigences qualitatives et gouvernance}{10}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Les Générateurs de Scénarios Économiques (GSE)}{10}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}L'univers Risque Neutre ($\mathbb {Q}$) : un cadre pour la valorisation}{11}{subsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.1.1}Modélisation des taux d'intérêt : le modèle de Hull \& White}{12}{subsubsection.1.3.1.1}%
-\contentsline {subsubsection}{\numberline {1.3.1.2}Modélisation des actions et de l'immobilier : le modèle de Black \& Scholes}{12}{subsubsection.1.3.1.2}%
-\contentsline {subsection}{\numberline {1.3.2}L'univers Monde Réel ($\mathbb {P}$) : un outil de pilotage stratégique}{13}{subsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.3.2.1}Modélisation des taux d'intérêt : le modèle de Vasicek}{13}{subsubsection.1.3.2.1}%
-\contentsline {subsubsection}{\numberline {1.3.2.2}Modélisation des actions et de l'immobilier : le modèle de Black \& Scholes avec prime de risque}{14}{subsubsection.1.3.2.2}%
-\contentsline {subsection}{\numberline {1.3.3}Synthèse des deux univers}{14}{subsection.1.3.3}%
-\contentsline {section}{\numberline {1.4}La représentation du passif : le concept de \textit {Model Point}}{14}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}La nécessité de l'agrégation}{15}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Les impacts de l'agrégation en MP sur les indicateurs S2}{15}{subsection.1.4.2}%
-\contentsline {chapter}{\numberline {2}Super chapitre 2 de Margot !}{16}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Super chapitre 3 de Margot !}{17}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Super chapitre 4 de Margot !}{18}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Super chapitre 5 de Margot !}{19}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{20}{chapter.6}%
-\contentsline {chapter}{Annexes}{21}{chapter*.8}%
-\contentsline {chapter}{Bibliographie}{22}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Cadre théorique et réglementaire du régime Solvabilité II}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Solvabilité II : principes et objectifs}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Historique de la directive européenne}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Les trois piliers de S2 : exigences de capital, gouvernance, et transparence}{4}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Définition et calcul du ratio de solvabilité S2}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Une mesure synthétique de la solidité financière d'un assureur}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Le Solvency Capital Requirement (SCR) : estimation des riques extrêmes}{5}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Les fonds propres éligibles : capacité à couvrir les pertes}{5}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Un indicateur sensible aux chocs économiques et aux arbitrages de gestion}{5}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Enjeux de pilotage de la solvabilité}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Rôle de l'anticipation du ratio dans la gestion stratégique}{6}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}Limites opérationnelles des modèles actuels}{6}{subsubsection.1.3.1.1}%
+\contentsline {chapter}{\numberline {2}Super chapitre 2 de Margot !}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Super chapitre 3 de Margot !}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Super chapitre 4 de Margot !}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Super chapitre 5 de Margot !}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{11}{chapter.6}%
+\contentsline {chapter}{Annexes}{12}{chapter*.8}%
+\contentsline {chapter}{Bibliographie}{13}{chapter*.8}%
